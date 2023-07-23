@@ -1,0 +1,22 @@
+﻿.id {
+	font-weight: bold;
+	color: chocolate;
+}
+
+.id span {
+	font-size: 1.2rem;
+	color: coral;
+}
+
+.name {
+color: darkcyan;
+}
+
+.email {
+font-style: italic;
+}
+
+.about {
+font-size: 1.2rem;
+color: rgb(252, 194, 108);
+}
